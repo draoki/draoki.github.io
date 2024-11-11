@@ -4,7 +4,7 @@
 Topics related to [logic](https://en.wikipedia.org/wiki/Mathematical_logic) in mathematics and theoretical computer science, including [descriptive set theory](https://en.wikipedia.org/wiki/Descriptive_set_theory) and [descriptive (computational) complexity theory](https://en.wikipedia.org/wiki/Descriptive_complexity_theory). 
 
 Recent mathematics courses include:
-- Topology: [linear topology](https://en.wikipedia.org/wiki/Linear_topology), [point set topology](https://en.wikipedia.org/wiki/General_topology)
+- Topology: [linear topology](https://en.wikipedia.org/wiki/Continuum_(topology)), [point set topology](https://en.wikipedia.org/wiki/General_topology)
 - Algebra: [group theory](https://en.wikipedia.org/wiki/Group_theory), [classical linear groups](https://en.wikipedia.org/wiki/Classical_group), [noncommutative ring theory](https://en.wikipedia.org/wiki/Noncommutative_ring)
 
 ## Research(-adjacent) experience
