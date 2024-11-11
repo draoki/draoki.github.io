@@ -10,7 +10,7 @@ Recent mathematics courses include:
 ## Research(-adjacent) experience
 - Summer 2024. Euler Circle Summer Course on [Independent Research & Proof Writing (IRPW)](https://eulercircle.com/classes/independent-research-and-paper-writing/). Expository paper on descriptive complexity theory.
 - Summer 2023. [NYU Ability Project](https://wp.nyu.edu/ability/). Maker work: CircuitPython, 3D printing, etc.
-- 2022-2023. Project on AI literacy in primary education.
+- 2022-2023. Project on AI literacy in early secondary education.
 
 ## Publications
 - A. Woodruff, A.S. Voneche, K. Thunstrom, R. Jana, R.L. Hardy, D.R. Aoki, P.G. Kelley. *"Discover AI in Daily Life": An AI Literacy Lesson for Middle School Students.*
