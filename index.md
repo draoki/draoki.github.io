@@ -1,9 +1,7 @@
 # Derek R. Aoki [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-0352-1963)
 
 ## Interests
-Topics related to [logic](https://en.wikipedia.org/wiki/Mathematical_logic) in mathematics and theoretical computer science, including [descriptive set theory](https://en.wikipedia.org/wiki/Descriptive_set_theory) and [descriptive (computational) complexity theory](https://en.wikipedia.org/wiki/Descriptive_complexity_theory). 
-
-Recent mathematics courses include:
+Topics related to [logic](https://en.wikipedia.org/wiki/Mathematical_logic) in mathematics and theoretical computer science, including [descriptive set theory](https://en.wikipedia.org/wiki/Descriptive_set_theory) and [descriptive (computational) complexity theory](https://en.wikipedia.org/wiki/Descriptive_complexity_theory). tRecent mathematics courses include:
 - Topology: [linear topology](https://en.wikipedia.org/wiki/Linear_continuum), [point set topology](https://en.wikipedia.org/wiki/General_topology)
 - Algebra: [group theory](https://en.wikipedia.org/wiki/Group_theory), [classical linear groups](https://en.wikipedia.org/wiki/Classical_group), [noncommutative ring theory](https://en.wikipedia.org/wiki/Noncommutative_ring)
 
