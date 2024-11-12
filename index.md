@@ -12,7 +12,7 @@ Topics related to [logic](https://en.wikipedia.org/wiki/Mathematical_logic) in m
 
 ## Publications
 - A. Woodruff, A.S. Voneche, K. Thunstrom, R. Jana, R.L. Hardy, D.R. Aoki, P.G. Kelley. *"Discover AI in Daily Life": An AI Literacy Lesson for Middle School Students.*
-Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), V.2, 1327. https://doi.org/10.1145/3545947.3576224
+Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), V.2, 1327. [https://doi.org/10.1145/3545947.3576224](https://dl.acm.org/doi/10.1145/3545947.3576224?cid=99660745293)
 
 ## Expository writing
 - D. Aoki. *[On the Polynomial Hierarchy, PSPACE, and Descriptive Complexity](http://simonrs.com/eulercircle/irpw2024/derek-pspace-paper.pdf).* Euler Circle Summer Course on Independent Research & Proof Writing (IRPW), 2024.
