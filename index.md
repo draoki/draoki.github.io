@@ -7,7 +7,7 @@ Pure mathematics and theoretical computer science, especially topics related to 
 
 ## Research(-adjacent) experience
 - Summer 2024. Euler Circle Summer Course on [Independent Research & Proof Writing (IRPW)](https://eulercircle.com/classes/independent-research-and-paper-writing/). Expository paper on descriptive complexity theory.
-- Spring 2023. Directed reading in descriptive set theory.
+- Spring 2024. Directed reading in descriptive set theory.
 - Summer 2023. [NYU Ability Project](https://wp.nyu.edu/ability/). Maker work: CircuitPython, 3D printing, etc.
 - 2022-2023. Project on AI literacy in early secondary education.
 
