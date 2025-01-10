@@ -18,6 +18,6 @@ Proceedings of the 54th ACM Technical Symposium on Computer Science Education (S
 ## Expository writing
 - D. Aoki. *[On the Polynomial Hierarchy, PSPACE, and Descriptive Complexity](http://simonrs.com/eulercircle/irpw2024/derek-pspace-paper.pdf).* Euler Circle Summer Course on Independent Research & Proof Writing (IRPW), 2024.
 
-## Fun
+## Miscellany
 - Erdős number = 4.
 - Honorable Mention, 2023 AMS Math Poetry Contest.
