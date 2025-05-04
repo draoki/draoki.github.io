@@ -2,8 +2,8 @@
 
 ## Interests
 Pure mathematics and theoretical computer science, especially topics related to [logic](https://en.wikipedia.org/wiki/Mathematical_logic) such as [descriptive set theory](https://en.wikipedia.org/wiki/Descriptive_set_theory) and [descriptive complexity theory](https://en.wikipedia.org/wiki/Descriptive_complexity_theory). Recent mathematics courses include:
-- Topology: [linear topology](https://en.wikipedia.org/wiki/Linear_continuum), [point set topology](https://en.wikipedia.org/wiki/General_topology), [Baire](https://en.wikipedia.org/wiki/Baire_space) & [Polish](https://en.wikipedia.org/wiki/Polish_space) spaces
-- Algebra: [group theory](https://en.wikipedia.org/wiki/Group_theory), [classical linear groups](https://en.wikipedia.org/wiki/Classical_group), [noncommutative rings](https://en.wikipedia.org/wiki/Noncommutative_ring)
+- Topology: [linear topology](https://en.wikipedia.org/wiki/Linear_continuum); [point set topology](https://en.wikipedia.org/wiki/General_topology); [Baire](https://en.wikipedia.org/wiki/Baire_space) & [Polish](https://en.wikipedia.org/wiki/Polish_space) spaces
+- Algebra: [group theory](https://en.wikipedia.org/wiki/Group_theory); [classical linear groups](https://en.wikipedia.org/wiki/Classical_group); [noncommutative rings](https://en.wikipedia.org/wiki/Noncommutative_ring)
 - Computation & logic: [computable structures](https://en.wikipedia.org/wiki/Computability_theory)
 
 ## Research(-adjacent) experience
