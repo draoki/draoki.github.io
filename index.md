@@ -4,12 +4,14 @@
 Pure mathematics and theoretical computer science, especially topics related to [logic](https://en.wikipedia.org/wiki/Mathematical_logic) such as [descriptive set theory](https://en.wikipedia.org/wiki/Descriptive_set_theory) and [descriptive complexity theory](https://en.wikipedia.org/wiki/Descriptive_complexity_theory). Recent mathematics courses include:
 - Topology: [linear topology](https://en.wikipedia.org/wiki/Linear_continuum); [point set topology](https://en.wikipedia.org/wiki/General_topology); [Baire](https://en.wikipedia.org/wiki/Baire_space) & [Polish](https://en.wikipedia.org/wiki/Polish_space) spaces
 - Algebra: [group theory](https://en.wikipedia.org/wiki/Group_theory); [classical linear groups](https://en.wikipedia.org/wiki/Classical_group); [noncommutative rings](https://en.wikipedia.org/wiki/Noncommutative_ring)
+- Analysis: [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis)
 - Computation & logic: [computable structures](https://en.wikipedia.org/wiki/Computability_theory)
 
 ## Research(-adjacent) experience
+- Summer 2025. Euler Circle Summer Course on Differential Geometry. Expository paper on diffeomorphism groups (texts: [Mann](https://nyjm.albany.edu/j/2016/22-3.html), [Banyaga](https://link.springer.com/book/10.1007/978-1-4757-6800-8)).
 - Spring 2025. Directed reading in finite model theory (texts: [Libkin](https://link.springer.com/book/10.1007/978-3-662-07003-1)).
 - Fall 2024. Independent side project on probabilistic computational complexity classes.
-- Summer 2024. Euler Circle Summer Course on [Independent Research & Proof Writing (IRPW)](https://eulercircle.com/classes/independent-research-and-paper-writing/). Expository paper on descriptive complexity theory (texts: [Immerman](https://link.springer.com/book/10.1007/978-1-4612-0539-5)).
+- Summer 2024. Euler Circle Summer Course on Independent Research & Proof Writing (IRPW). Expository paper on descriptive complexity theory (texts: [Immerman](https://link.springer.com/book/10.1007/978-1-4612-0539-5)).
 - Spring 2024. Directed reading in descriptive set theory (texts: [Kechris](https://link.springer.com/book/10.1007/978-1-4612-4190-4), [Moschovakis](https://bookstore.ams.org/surv-155)).
 - Summer 2023. [NYU Ability Project](https://wp.nyu.edu/ability/). Maker work: CircuitPython, 3D printing, etc.
 - 2022-2023. Project on AI literacy in early secondary education.
@@ -22,6 +24,7 @@ Proceedings of the 54th ACM Technical Symposium on Computer Science Education (S
 - D.R. Aoki, *[Local-Order-Invariant Logic on Classes of Bounded Degree](papers/Local_Order_Invariant_Logic_on_Classes_of_Bounded_Degree.pdf).* In review, 23 July 2025.
 
 ## Expository writing
+- D.R. Aoki. *[Perfect Diffeomorphism Groups](http://simonrs.com/eulercircle/diffgeo2025/derek-diff.pdf).* Euler Circle Summer Course on Differential Geometry, 2025.
 - D. Aoki. *[On the Polynomial Hierarchy, PSPACE, and Descriptive Complexity](http://simonrs.com/eulercircle/irpw2024/derek-pspace-paper.pdf).* Euler Circle Summer Course on Independent Research & Proof Writing (IRPW), 2024.
 
 ## Miscellany
