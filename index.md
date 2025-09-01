@@ -3,7 +3,7 @@
 ## Interests
 Pure mathematics and theoretical computer science, especially topics related to [logic](https://en.wikipedia.org/wiki/Mathematical_logic) such as [descriptive set theory](https://en.wikipedia.org/wiki/Descriptive_set_theory) and [descriptive complexity theory](https://en.wikipedia.org/wiki/Descriptive_complexity_theory). Recent mathematics courses include:
 - Topology: [linear topology](https://en.wikipedia.org/wiki/Linear_continuum); [point set topology](https://en.wikipedia.org/wiki/General_topology); [Baire](https://en.wikipedia.org/wiki/Baire_space) & [Polish](https://en.wikipedia.org/wiki/Polish_space) spaces
-- Algebra: [group theory](https://en.wikipedia.org/wiki/Group_theory); [classical linear groups](https://en.wikipedia.org/wiki/Classical_group); [noncommutative rings](https://en.wikipedia.org/wiki/Noncommutative_ring)
+- Algebra: [classical linear groups](https://en.wikipedia.org/wiki/Classical_group); [noncommutative rings](https://en.wikipedia.org/wiki/Noncommutative_ring)
 - Analysis: [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis)
 - Computation & logic: [computable structures](https://en.wikipedia.org/wiki/Computability_theory)
 
@@ -18,7 +18,7 @@ Pure mathematics and theoretical computer science, especially topics related to 
 
 ## Publications
 - A. Woodruff, A.S. Voneche, K. Thunstrom, R. Jana, R.L. Hardy, D.R. Aoki, P.G. Kelley. *"Discover AI in Daily Life": An AI Literacy Lesson for Middle School Students.*
-Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), V.2, 1327. [https://doi.org/10.1145/3545947.3576224](https://dl.acm.org/doi/10.1145/3545947.3576224?cid=99660745293)
+Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), V.2, 1327. [DOI:10.1145/3545947.3576224](https://dl.acm.org/doi/10.1145/3545947.3576224?cid=99660745293)
 
 ## Preprints
 - D.R. Aoki, *[Local-Order-Invariant Logic on Classes of Bounded Degree](papers/Local_Order_Invariant_Logic_on_Classes_of_Bounded_Degree.pdf).* In review, 23 July 2025.
