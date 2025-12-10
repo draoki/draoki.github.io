@@ -24,7 +24,8 @@ Proceedings of the 54th ACM Technical Symposium on Computer Science Education (S
 - D.R. Aoki, *Local-Order-Invariant Logic on Classes of Bounded Degree.* [arXiv:2512.02039](https://arxiv.org/abs/2512.02039)
 
 ## Expository writing
-- D.R. Aoki. *[Perfect Diffeomorphism Groups](http://simonrs.com/eulercircle/diffgeo2025/derek-diff.pdf).* Euler Circle Summer Course on Differential Geometry, 2025.
+- D.R. Aoki. *[An Introduction to Diffeomorphism Groups](papers/Intro_Diffeomorphism_Groups.pdf).* In review, 29 Nov. 2025.
+-- D.R. Aoki. *[Perfect Diffeomorphism Groups](http://simonrs.com/eulercircle/diffgeo2025/derek-diff.pdf).* Euler Circle Summer Course on Differential Geometry, 2025.
 - D. Aoki. *[On the Polynomial Hierarchy, PSPACE, and Descriptive Complexity](http://simonrs.com/eulercircle/irpw2024/derek-pspace-paper.pdf).* Euler Circle Summer Course on Independent Research & Proof Writing (IRPW), 2024.
 
 ## Miscellany
