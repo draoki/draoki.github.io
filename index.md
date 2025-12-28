@@ -22,6 +22,7 @@ Proceedings of the 54th ACM Technical Symposium on Computer Science Education (S
 
 ## Preprints
 - D.R. Aoki, *Local-Order-Invariant Logic on Classes of Bounded Degree.* [arXiv:2512.02039](https://arxiv.org/abs/2512.02039)
+- D.R. Aoki, *About Infinite Algebraic Curves whose Indefinite Lengths Equal an Elliptic Arc.* *[Euleriana](https://scholarlycommons.pacific.edu/euleriana/)*, to appear.
 
 ## Expository writing
 - D.R. Aoki. *[An Introduction to Diffeomorphism Groups](papers/Intro_Diffeomorphism_Groups.pdf).* In review, 29 Nov. 2025.
