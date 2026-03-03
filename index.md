@@ -22,7 +22,7 @@ Pure mathematics and theoretical computer science, especially topics related to 
 Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), V.2, 1327. [DOI:10.1145/3545947.3576224](https://dl.acm.org/doi/10.1145/3545947.3576224?cid=99660745293)
 
 ## Preprints
-- D.R. Aoki, *Local-Order-Invariant Logic on Classes of Bounded Degree.* [arXiv:2512.02039](https://arxiv.org/abs/2512.02039)
+- D.R. Aoki, *Local-Order-Invariant Logic on Classes of Bounded Degree.* In review. [arXiv:2512.02039](https://arxiv.org/abs/2512.02039)
 
 ## Expository writing
 - D.R. Aoki. *[An Introduction to Diffeomorphism Groups](papers/Intro_Diffeomorphism_Groups.pdf).* In review, 29 Nov. 2025.
