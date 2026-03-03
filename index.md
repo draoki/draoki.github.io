@@ -17,7 +17,7 @@ Pure mathematics and theoretical computer science, especially topics related to 
 - 2022-2023. Project on AI literacy in early secondary education.
 
 ## Publications
-- D.R. Aoki, *[About Infinite Algebraic Curves whose Indefinite Lengths Equal an Elliptic Arc](papers/E780.pdf).* *[Euleriana](https://scholarlycommons.pacific.edu/euleriana/) 6* (1). [DOI:10.56031/2693-9908.1107](https://doi.org/10.56031/2693-9908.1107)
+- D.R. Aoki, *About Infinite Algebraic Curves whose Indefinite Lengths Equal an Elliptic Arc.* *[Euleriana](https://scholarlycommons.pacific.edu/euleriana/) 6* (1). [DOI:10.56031/2693-9908.1107](https://doi.org/10.56031/2693-9908.1107)
 - A. Woodruff, A.S. Voneche, K. Thunstrom, R. Jana, R.L. Hardy, D.R. Aoki, P.G. Kelley. *"Discover AI in Daily Life": An AI Literacy Lesson for Middle School Students.*
 Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), V.2, 1327. [DOI:10.1145/3545947.3576224](https://dl.acm.org/doi/10.1145/3545947.3576224?cid=99660745293)
 
