@@ -8,14 +8,14 @@ Pure mathematics and theoretical computer science, especially topics related to 
 - Computation & logic: [computable structures](https://en.wikipedia.org/wiki/Computability_theory), model-theoretic logics
 
 ## Research(-adjacent) experience
-- 2026. MIT PRIMES-USA. Research on Schubert calculus (texts: [Lakshmibai & Brown](https://link.springer.com/book/10.1007/978-981-13-1393-6))
+- 2026\. MIT PRIMES-USA. Research on Schubert calculus (texts: [Lakshmibai & Brown](https://link.springer.com/book/10.1007/978-981-13-1393-6))
 - Summer 2025. Euler Circle Summer Course on Differential Geometry. Expository paper on diffeomorphism groups (texts: [Mann](https://nyjm.albany.edu/j/2016/22-3.html), [Banyaga](https://link.springer.com/book/10.1007/978-1-4757-6800-8)).
 - Spring 2025. Directed reading in finite model theory (texts: [Libkin](https://link.springer.com/book/10.1007/978-3-662-07003-1)).
 - Fall 2024. Independent side project on probabilistic computational complexity classes.
 - Summer 2024. Euler Circle Summer Course on Independent Research & Proof Writing (IRPW). Expository paper on descriptive complexity theory (texts: [Immerman](https://link.springer.com/book/10.1007/978-1-4612-0539-5)).
 - Spring 2024. Directed reading in descriptive set theory (texts: [Kechris](https://link.springer.com/book/10.1007/978-1-4612-4190-4), [Moschovakis](https://bookstore.ams.org/surv-155)).
 - Summer 2023. [NYU Ability Project](https://wp.nyu.edu/ability/). Maker work: CircuitPython, 3D printing, etc.
-- 2022-2023. Project on AI literacy in early secondary education.
+- 2022-2023\. Project on AI literacy in early secondary education.
 
 ## Publications
 - D.R. Aoki (2026). *About Infinite Algebraic Curves whose Indefinite Lengths Equal an Elliptic Arc: An English Translation of E780.* *Euleriana 6*(1), pp.3-15. [DOI:10.56031/2693-9908.1107](https://doi.org/10.56031/2693-9908.1107)
