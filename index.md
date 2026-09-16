@@ -5,9 +5,10 @@ Pure mathematics and theoretical computer science, especially topics related to 
 - Topology: [linear topology](https://en.wikipedia.org/wiki/Linear_continuum); [point set topology](https://en.wikipedia.org/wiki/General_topology); [Baire](https://en.wikipedia.org/wiki/Baire_space) & [Polish](https://en.wikipedia.org/wiki/Polish_space) spaces
 - Algebra: [classical linear groups](https://en.wikipedia.org/wiki/Classical_group); [noncommutative rings](https://en.wikipedia.org/wiki/Noncommutative_ring)
 - Analysis: [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis)
-- Computation & logic: [computable structures](https://en.wikipedia.org/wiki/Computability_theory)
+- Computation & logic: [computable structures](https://en.wikipedia.org/wiki/Computability_theory), model-theoretic logics
 
 ## Research(-adjacent) experience
+- 2026. MIT PRIMES-USA. Research on Schubert calculus (texts: [Lakshmibai & Brown](https://link.springer.com/book/10.1007/978-981-13-1393-6))
 - Summer 2025. Euler Circle Summer Course on Differential Geometry. Expository paper on diffeomorphism groups (texts: [Mann](https://nyjm.albany.edu/j/2016/22-3.html), [Banyaga](https://link.springer.com/book/10.1007/978-1-4757-6800-8)).
 - Spring 2025. Directed reading in finite model theory (texts: [Libkin](https://link.springer.com/book/10.1007/978-3-662-07003-1)).
 - Fall 2024. Independent side project on probabilistic computational complexity classes.
@@ -17,12 +18,12 @@ Pure mathematics and theoretical computer science, especially topics related to 
 - 2022-2023. Project on AI literacy in early secondary education.
 
 ## Publications
-- D.R. Aoki, *About Infinite Algebraic Curves whose Indefinite Lengths Equal an Elliptic Arc: An English Translation of E780.* *Euleriana 6*(1), pp.3-15. [DOI:10.56031/2693-9908.1107](https://doi.org/10.56031/2693-9908.1107)
-- A. Woodruff, A.S. Voneche, K. Thunstrom, R. Jana, R.L. Hardy, D.R. Aoki, P.G. Kelley. *"Discover AI in Daily Life": An AI Literacy Lesson for Middle School Students.*
-Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), V.2, 1327. [DOI:10.1145/3545947.3576224](https://dl.acm.org/doi/10.1145/3545947.3576224?cid=99660745293)
+- D.R. Aoki (2026). *About Infinite Algebraic Curves whose Indefinite Lengths Equal an Elliptic Arc: An English Translation of E780.* *Euleriana 6*(1), pp.3-15. [DOI:10.56031/2693-9908.1107](https://doi.org/10.56031/2693-9908.1107)
+- A. Woodruff, A.S. Voneche, K. Thunstrom, R. Jana, R.L. Hardy, D.R. Aoki, P.G. Kelley (2023). *"Discover AI in Daily Life": An AI Literacy Lesson for Middle School Students.*
+Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE), V.2, 1327. [DOI:10.1145/3545947.3576224](https://dl.acm.org/doi/10.1145/3545947.3576224?cid=99660745293)
 
 ## Preprints
-- D.R. Aoki, *Local-Order-Invariant Logic on Classes of Bounded Degree.* In review. [arXiv:2512.02039](https://arxiv.org/abs/2512.02039)
+- D.R. Aoki, *Local-Order-Invariant Logic on Classes of Bounded Degree.* [arXiv:2512.02039](https://arxiv.org/abs/2512.02039)
 
 ## Expository writing
 - D.R. Aoki. *[An Introduction to Diffeomorphism Groups](papers/Intro_Diffeomorphism_Groups.pdf).* In review, 29 Nov. 2025.
