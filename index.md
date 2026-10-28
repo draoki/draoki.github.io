@@ -23,7 +23,7 @@ Pure mathematics and theoretical computer science, including algebraic geometry 
 Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE), V.2, 1327. [DOI:10.1145/3545947.3576224](https://dl.acm.org/doi/10.1145/3545947.3576224?cid=99660745293)
 
 ## Preprints
-- D.R. Aoki (2026). *On Open Borel Orbits in Conormal Bundles to Schubert Cells.*
+- D.R. Aoki (2026). *On Open Borel Orbits in Conormal Bundles to Schubert Cells.* [arXiv:2610.35923](https://arxiv.org/abs/2610.35923)
   - Oral presentation, [2026 MIT PRIMES Conference](https://math.mit.edu/research/highschool/primes/conference/conf-2026.html)
   - Poster presentation, [2027 Joint Mathematical Meetings](https://meetings.ams.org/math/jmm2027/meetingapp.cgi/Paper/71585)
 - D.R. Aoki (2026). *Order-Invariant CFO Contains Local-Order-Invariant FO.*
