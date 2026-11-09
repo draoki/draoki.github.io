@@ -25,8 +25,10 @@ Proceedings of the 54th ACM Technical Symposium on Computer Science Education (S
 ## Preprints
 - D.R. Aoki (2026). *On Open Borel Orbits in Conormal Bundles to Schubert Cells.* [arXiv:2610.35923](https://arxiv.org/abs/2610.35923)
   - Oral presentation, [2026 MIT PRIMES Conference](https://math.mit.edu/research/highschool/primes/conference/conf-2026.html)
+  - Oral presentation, [2026 Yau Science Awards NA (mathematics)](https://www.yau-science-awards.org/bulletin/show-102057.html)
   - Poster presentation, [2027 Joint Mathematical Meetings](https://meetings.ams.org/math/jmm2027/meetingapp.cgi/Paper/71585)
 - D.R. Aoki (2026). *Order-Invariant CFO Contains Local-Order-Invariant FO.* [arXiv:2611.01501](https://arxiv.org/abs/2611.01501)
+  - Oral presentation, [2026 Yau Science Awards NA (computer science)](https://www.yau-science-awards.org/bulletin/show-102057.html)
 - D.R. Aoki (2025). *Local-Order-Invariant Logic on Classes of Bounded Degree.* [arXiv:2512.02039](https://arxiv.org/abs/2512.02039)
 
 ## Expository writing
